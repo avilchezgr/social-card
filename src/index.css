@@ -1,14 +1,87 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+body{
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+		 font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.tapiz{
+	//background-image:url('background.jpg');
+	background-color: #e6ac00;
+	width:500px;
+	height:250px;
+	position:relative;
+	text-align:center;
+	color:white;
+	border-radius: 5px 5px 0px 0px ;
+}
+.logo{
+	position:absolute;
+	top: 8px;
+	left: 8px;
+	width: 44px;
+	height: 44px;
+	
+}
+.contact{
+	position:absolute;
+	right:5px;
+	bottom:5px;
+	
+	
+	background-color:white;
+	border-radius:1px;
+	
+}
+.nombreContacto{
+	margin:10px;
+	float:left;
+	color:#e6ac00;
+	font-weight:bold;
+	font-size:18px;
+	
+}
+.titulo{
+	padding-top:75px;
+	padding-left:45px;
+	font-size: 40px;
+	text-align:left;
+	margin: auto;
+}
+.profileImg{
+	margin-top:5px;
+	margin-right:5px;
+	float:left;
+	width:30px;
+	height:30px;
+	
+}
+.pie{
+	box-sizing:border-box;
+	width:100%;
+	display: flex;
+	flex-direction: column;
+	text-align:left;
+	border-color: #eaeae1;
+	border-style:solid;
+	border-width: 1px;
+}
+.pieInfo{
+	margin-left: 10px;
+	margin-top: 0;
+	margin-bottom:0;
+}
+.pieTitulo{
+	font-weight:bold;
+	margin-left: 10px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.pieLink{
+	color:grey;
+	margin-top:4px;
+	margin-left: 10px;
+	margin-bottom:4px;
+	text-decoration: none;
+}
+.socialCard{
+	width:500px;
+	
 }

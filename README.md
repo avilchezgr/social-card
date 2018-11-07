@@ -1,3 +1,14 @@
+
+## Social Card made in React
+
+Social card, similar to the ones used at Twitter, Facebook, AirBnb and so on.
+
+![](social-card.png)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
