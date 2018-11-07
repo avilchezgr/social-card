@@ -3,7 +3,7 @@
 
 Social card, similar to the ones used at Twitter, Facebook, AirBnb and so on.
 
-![](social-card.png)
+![](social-card.PNG)
 
 
 
